@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-const PrimeraApp = ( { saludo, subtitulo } ) => {
+export const PrimeraApp = ( { saludo, subtitulo } ) => {
 
     //const saludo = 'Hola mundo'
 
